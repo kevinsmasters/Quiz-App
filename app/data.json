@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "question":"How many steps are in SDLC?",
+        "answer":["infinite","six or five","seven","three"],
+        "correct":1
+    },
+    {
+        "id":2,
+        "question":"What is usually the shortest step?",
+        "answer":["define requirements","testing","filing your taxes",
+        "development"],
+        "correct":3
+
+    },
+    {
+        "id":3,
+        "question":"Which of these is NOT a development Methodology?",
+        "answer":["Agile","Waterfall","Spiral","Fractal"],
+        "correct":3
+    }
+]
