@@ -51,7 +51,7 @@ angular.module('quizApp', [])
             }
 
             $scope.end = function() {
-                console.log('ended');
+                $scope.yguess = 0;
                 $scope.yscore = 0;
             }
 
