@@ -1,0 +1,122 @@
+# Sample json output from the view
+# My apologize for the lack of tabs
+[
+{
+"field_question_number": "1",
+"field_question": "What is the purpose of the System Development Life Cycle?",
+"field_answer": [
+"To build and maintain organizations",
+"To build and maintain computer a based information system",
+"To organize documents online",
+"To create an information technology framework for e-commerce"
+],
+"field_correct": "2",
+"title": "1 purpose of SDLC"
+},
+{
+"field_question_number": "2",
+"field_question": "Modularizing is the process of breaking down a program into modules?",
+"field_answer": [
+"True",
+"False"
+],
+"field_correct": "1",
+"title": "2 Modularizing"
+},
+{
+"field_question_number": "3",
+"field_question": "Object Oriented Programming allows:",
+"field_answer": [
+"The ability to write programs with the assembly language",
+" Programs to be modularized into objects or classes",
+"Tiny programs that are used only in a GUI environment",
+"The grouping of simple programs into one structured one"
+],
+"field_correct": "2",
+"title": "3 OOP Allows"
+},
+{
+"field_question_number": "4",
+"field_question": "What are the two main program design tools?",
+"field_answer": [
+"CASE and System flow chart",
+"Structure Chart and Hierarchy chart",
+"Pseudo-code and System flow chart",
+"Pseudo-code and Program Flow Chart"
+],
+"field_correct": "4",
+"title": "4 2 Main Program Design Tools"
+},
+{
+"field_question_number": "5",
+"field_question": "The System flow chart is",
+"field_answer": [
+"A graphical representation of the programs within a system and its data flow",
+"A graphical representation of the hardware architecture",
+"A diagram that shows the faults with a system",
+"None of the above"
+],
+"field_correct": "1",
+"title": "5 System Flow Chart"
+},
+{
+"field_question_number": "6",
+"field_question": "The person responsible for analyzing the system is the",
+"field_answer": [
+"Systems Administrator",
+"Programmer",
+"System Designer",
+"System Analyst"
+],
+"field_correct": "4",
+"title": "6 Analyzing the System"
+},
+{
+"field_question_number": "7",
+"field_question": "A computer-based information system is a",
+"field_answer": [
+"System comprised of PDA, Laptops and Desktops",
+"System in which some procedures are performed by computers",
+"Inventory Management is performed",
+"A type of payroll system"
+],
+"field_correct": "2",
+"title": "7 CBI is"
+},
+{
+"field_question_number": "8",
+"field_question": "CASE tools allows",
+"field_answer": [
+"Software to be tested online",
+"Software to be easily distributed among a developer community",
+"The rapid increase in the development of software due to extensive design approach",
+"The bypassing of alot of logical code"
+],
+"field_correct": "3",
+"title": "8 CASE"
+},
+{
+"field_question_number": "9",
+"field_question": "The Program Development Cycle is",
+"field_answer": [
+"A language built by a programmer",
+"A cycle similar to SDLC",
+"A Cycle that creates a programmed logical output",
+"A series of steps taken for the development of a program"
+],
+"field_correct": "4",
+"title": "9 Program Dev Cycle"
+},
+{
+"field_question_number": "10",
+"field_question": "A Programming Language named FORTRAN is good for",
+"field_answer": [
+"Handling character sets",
+"Numerical data",
+"Shell commands",
+"None of the above"
+],
+"field_correct": "2",
+"title": "10 FORTRAN"
+}
+]
