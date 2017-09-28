@@ -1,5 +1,5 @@
 # Quiz-App
-I built an AngularJS frontend to a headless Drupal site that reads JSON data from a REST view. The whole thing was kind of a 2-way exercise in learning some SDLC concepts and practice working in AngularJS.
+I built an AngularJS frontend to a headless Drupal site that reads JSON data from a REST view. The whole thing was kind of a 2-prong exercise in learning some SDLC concepts and practice working in AngularJS.
 
 Dependencies:
 Drupal 8 minimal with 
