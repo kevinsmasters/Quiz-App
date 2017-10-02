@@ -28,7 +28,7 @@ angular.module('quizApp', [])
                 $scope.yguess ++;
                 selected = $index + 1;
                 selected = selected.toString();
-
+                $scope.resultMsg = "";
                 if (selected === $scope.current.field_correct) {
 
                     // if the score is correct...
@@ -42,10 +42,14 @@ angular.module('quizApp', [])
 
                     $scope.yscore++;
 
+                    $scope.resultMsg = "CORRECT!"
+
                 } else {
                     var myEl = angular.element(document.querySelector('input#op'+ $index));
                     myEl.attr('disabled', 'disabled');
                     myEl.attr('checked', false);
+
+                    $scope.resultMsg = "WRONG!"
                 }
 
             }
